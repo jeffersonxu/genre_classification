@@ -15,7 +15,4 @@ We ran a total of 5 models.
 * Decision Tree
 * Ensemble - Bagging
 
-These are included in ensemble.ipynb, logistic_regression.ipynb, random_forest.ipynb
-
-
-
+These are included in models.ipynb
